@@ -1,0 +1,4 @@
+I would argue that :
+- Facade acts upon a domain, ie: an external library
+- Proxy is used when the cost of creating the underlying object is high, ie: a web call, a repository, ...
+- Adapter allows to use an interface as if it was another
